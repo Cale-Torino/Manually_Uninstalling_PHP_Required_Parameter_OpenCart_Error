@@ -1,6 +1,6 @@
 # Manually Uninstalling PHP Required Parameter OpenCart Error
 
-If you are running **PHP8.0** and you get errors related to `google shopping` you may not be able to uninstall the extension via the button on the Extensions form under Advertising.
+If you are running **PHP8.0** (and can't go back to PHP7.x) and you get errors related to `google shopping` you may not be able to uninstall the extension via the button on the Extensions form under Advertising.
 
 I got the "error undefined" alert popup error when I was trying to add a basic product...
 
